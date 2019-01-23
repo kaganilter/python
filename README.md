@@ -1,3 +1,3 @@
 # python
-python projects
-these are practical info for python learners
+python notes
+practical info for python learners
